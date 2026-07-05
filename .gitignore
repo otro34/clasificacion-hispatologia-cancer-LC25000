@@ -1,0 +1,25 @@
+# Entorno
+.venv/
+__pycache__/
+*.pyc
+
+# Datos y artefactos pesados
+data/
+outputs/checkpoints/*.pt
+outputs/figures/*.png
+
+# Credenciales
+kaggle.json
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+.env
+
+# Material del curso (no se versiona)
+*.pdf
+AVANCE.md
+
+# Backups
+*.ipynb.bak
