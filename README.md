@@ -1,6 +1,6 @@
 # Clasificacion de cancer en imagenes histopatologicas (LC25000)
 
-Transfer learning con **EfficientNet-B0** (y comparacion con ResNet50) para clasificar
+Transfer learning con **EfficientNet-B0** para clasificar
 parches histopatologicos en 5 clases (colon y pulmon, benigno/maligno).
 
 - Notebook principal: [`notebooks/histopatologia_cancer.ipynb`](notebooks/histopatologia_cancer.ipynb)
